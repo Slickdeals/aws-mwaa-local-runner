@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-EXPECTED_AIRFLOW_VERSION="2.10.1"
+EXPECTED_AIRFLOW_VERSION="2.10.3"
 EXPECTED_WATCHTOWER_VERSION="3.3.1"
 
 validate_version_with_pip() {
